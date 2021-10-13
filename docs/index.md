@@ -35,10 +35,10 @@ On the left-hand side, clin on the **EXPLORER** icon (first icon).
 - Click **OPEN FOLDER**. A new dialogue box will open.
 - Find the correct file folder destination and double-click the icon. (In this example, the folder will be found on the **DESKTOP**.)
 - Right click to create a new folder.
-     - Select **NEW - FOLDER**
-     - In the text box, type the desired folder name.
-     - Click **SELECT FOLDER**
-     - The dialogue box will close and go back to the main screen.
+-    Select **NEW - FOLDER**
+-    In the text box, type the desired folder name.
+-    Click **SELECT FOLDER**
+-    The dialogue box will close and go back to the main screen.
 ---
 
 >### KEYBOARD SHORTCUT ###
