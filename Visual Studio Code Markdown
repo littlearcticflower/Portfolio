@@ -15,7 +15,7 @@ This tutorial requires Visual Studio Code to already be downloaded and installed
 
 If a previous project is open when launching the application, an additional step is needed to create a new window.
 - From the Toolbar, Click **FILE** - **NEW WINDOW**
--  new window opens, creating a blank project. 
+- A new window opens, creating a blank project. 
 
 ---
 
@@ -31,7 +31,7 @@ If a previous project is open when launching the application, an additional step
 On the left-hand side, click on the **EXPLORER** icon (first icon).
 
 - Click **OPEN FOLDER**. A new dialogue box will open.
-- Find the correct file folder destination and double-click the icon. (In this example, the folder will be found on the DESKTOP.)
+- Find the correct file folder destination and double-click the icon. (In this example, the folder will be found on the **DESKTOP**.)
 - Right click to create a new folder.
     - Select **NEW - FOLDER**
     - In the text box, type the desired folder name.
