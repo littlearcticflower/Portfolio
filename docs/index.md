@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# How to Create a New Project Folder in Visual Studio Code #
+### By Natassia Kupchick ###
 
-You can use the [editor on GitHub](https://github.com/littlearcticflower/Portfolio/edit/Visual-Studio-Code/docs/index.md) to maintain and preview the content for your website in Markdown files.
+The first step to starting any web-based project is to create a project folder in a code editor. This quick guide will show you how to create a new project folder and file in Microsoft’s code editor Visual Studio Code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You’ll learn how to:
+1.	Create a new Project Folder
+2.	Create a new File Folder
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This tutorial requires Visual Studio Code to already be downloaded and installed on the desired computer. Prior coding experience is not required.
 
-```markdown
-Syntax highlighted code block
+## STEP 1: OPEN VISUAL STUDIO CODE
+-	Double-click on the Visual Studio Code icon to open the application.
 
-# Header 1
-## Header 2
-### Header 3
+If a previous project is open when launching the application, an additional step is needed to create a new window.
+-	From the Toolbar, Click **FILE** - **NEW WINDOW**
+-	A new window opens, creating a blank project. 
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+>### KEYBOARD SHORTCUT ##
+> A **keyboard shortcut** is a key or combination of keys providing quick access to a specific function within a computer program. Use the following to quickly create a new window: 
 
-**Bold** and _Italic_ and `Code` text
+>Windows:	Ctrl + Shift + N
 
-[Link](url) and ![Image](src)
-```
+>Mac:	Shift (⇧) + Command (⌘) + N
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## STEP 2: CLICK THE EXPLORER ICON TO CREATE A NEW FOLDER
+On the left-hand side, clin on the **EXPLORER** icon (first icon).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littlearcticflower/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Click **OPEN FOLDER**. A new dialogue box will open.
+- Find the correct file folder destination and double-click the icon. (In this example, the folder will be found on the DESKTOP.)
+- Right click to create a new folder.
 
-### Support or Contact
+     - Select **NEW - FOLDER**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    - In the text box, type the desired folder name.
+
+    - Click **SELECT FOLDER**
+
+    - The dialogue box will close and go back to the main screen.
+---
+
+>### KEYBOARD SHORTCUT ##
+>Windows: Ctrl + K + O
+
+>Mac:  Command (⌘) + K + O
+---
+
+
+## STEP 3: CREATE A NEW FILE IN THE PROJECT FOLDER
+
+- Click on the NEW FILE icon to the right of the Project Folder.
+- Type the name of the file (i.e. index.html, style.css, index. js, etc.)
+- Click **ENTER**
+- The file will be created and appear under the **FOLDER** name.
+- A new tab will appear on the right-hand side and coding can begin.
