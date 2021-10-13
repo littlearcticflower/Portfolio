@@ -11,19 +11,18 @@ You’ll learn how to:
 This tutorial requires Visual Studio Code to already be downloaded and installed on the desired computer. Prior coding experience is not required.
 
 ## STEP 1: OPEN VISUAL STUDIO CODE
--	Double-click on the Visual Studio Code icon to open the application.
+- Double-click on the Visual Studio Code icon to open the application.
 
 If a previous project is open when launching the application, an additional step is needed to create a new window.
--	From the Toolbar, Click **FILE** - **NEW WINDOW**
--	A new window opens, creating a blank project. 
+- From the Toolbar, Click **FILE** - **NEW WINDOW**
+- A new window opens, creating a blank project. 
 
 ---
 
->### KEYBOARD SHORTCUT ##
+>### KEYBOARD SHORTCUT ###
 > A **keyboard shortcut** is a key or combination of keys providing quick access to a specific function within a computer program. Use the following to quickly create a new window: 
 
 >Windows:	Ctrl + Shift + N
-
 >Mac:	Shift (⇧) + Command (⌘) + N
 ---
 
@@ -32,21 +31,16 @@ If a previous project is open when launching the application, an additional step
 On the left-hand side, clin on the **EXPLORER** icon (first icon).
 
 - Click **OPEN FOLDER**. A new dialogue box will open.
-- Find the correct file folder destination and double-click the icon. (In this example, the folder will be found on the DESKTOP.)
+- Find the correct file folder destination and double-click the icon. (In this example, the folder will be found on the **DESKTOP**.)
 - Right click to create a new folder.
-
      - Select **NEW - FOLDER**
-
     - In the text box, type the desired folder name.
-
     - Click **SELECT FOLDER**
-
     - The dialogue box will close and go back to the main screen.
 ---
 
->### KEYBOARD SHORTCUT ##
+>### KEYBOARD SHORTCUT ###
 >Windows: Ctrl + K + O
-
 >Mac:  Command (⌘) + K + O
 ---
 
