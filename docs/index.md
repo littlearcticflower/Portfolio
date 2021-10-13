@@ -23,6 +23,7 @@ If a previous project is open when launching the application, an additional step
 > A **keyboard shortcut** is a key or combination of keys providing quick access to a specific function within a computer program. Use the following to quickly create a new window: 
 
 >Windows:	Ctrl + Shift + N
+>
 >Mac:	Shift (⇧) + Command (⌘) + N
 ---
 
@@ -41,13 +42,14 @@ On the left-hand side, clin on the **EXPLORER** icon (first icon).
 
 >### KEYBOARD SHORTCUT ###
 >Windows: Ctrl + K + O
+>
 >Mac:  Command (⌘) + K + O
 ---
 
 
 ## STEP 3: CREATE A NEW FILE IN THE PROJECT FOLDER
 
-- Click on the NEW FILE icon to the right of the Project Folder.
+- Click on the **NEW FILE** icon to the right of the Project Folder.
 - Type the name of the file (i.e. index.html, style.css, index. js, etc.)
 - Click **ENTER**
 - The file will be created and appear under the **FOLDER** name.
